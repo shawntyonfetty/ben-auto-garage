@@ -129,7 +129,7 @@ export default function Home() {
   }
 
   function buildWhatsAppLink() {
-    const garageNumber = "254741767239";
+    const garageNumber = "254729766771";
     const serviceName = s?.title || service;
     const vehicle = `${vehicleMake.trim()} ${vehicleModel.trim()}`;
     const message = [
